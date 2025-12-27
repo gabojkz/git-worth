@@ -33,7 +33,7 @@ Ever wondered how much your side project is *actually* worth? `git-worth` analyz
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/git-worth.git
+git clone https://github.com/gabojkz/git-worth.git
 cd git-worth
 
 # Run the installer
@@ -55,7 +55,7 @@ source ~/.zshrc
 
 ```powershell
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/git-worth.git
+git clone https://github.com/gabojkz/git-worth.git
 cd git-worth
 
 # Run the installer (PowerShell)
@@ -137,6 +137,8 @@ Feel free to open issues or PRs! Ideas for improvements:
 - [ ] Track worth over time
 - [ ] Export reports to JSON/Markdown
 - [ ] Git hook integration
+- [ ] Support to other currencies
+- [ ] Github action or post commit trigger
 
 ## 📄 License
 
